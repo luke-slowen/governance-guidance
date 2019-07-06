@@ -1,0 +1,25 @@
+title: Governance guidance
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "principles"
+    values:
+      principle: true
+  -
+    scope:
+      path: "standards"
+    values:
+      standard: true
+  -
+    scope:
+      path: "guides"
+    values:
+      guide: true
+  -
+    scope:
+      path: "helpcards"
+    values:
+      helpcard: true
