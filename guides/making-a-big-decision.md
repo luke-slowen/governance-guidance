@@ -19,6 +19,5 @@ You're deciding whether to shut something down, or scale it up
 
 - [Building Digital UK](https://www.gov.uk/guidance/building-digital-uk)
 @ the Department for Digital, Culture, Media and Sport (DCMS)
-- [Disruptive Technologies Innovation Fund]
-(https://dbei.gov.ie/en/What-We-Do/Innovation-Research-Development/Disruptive-Technologies-Innovation-Fund/)
+- [Disruptive Technologies Innovation Fund](https://dbei.gov.ie/en/What-We-Do/Innovation-Research-Development/Disruptive-Technologies-Innovation-Fund/)
 @ the Department of Business, Enterprise and Innovation (DBEI)
