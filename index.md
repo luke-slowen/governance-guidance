@@ -6,6 +6,9 @@ It complements the [Service Manual](https://www.gov.uk/service-manual) and
 is inspired by the [GDS Way](https://gds-way.cloudapps.digital) and the
 [Ministry of Justice Technical Guidance](https://ministryofjustice.github.io/technical-guidance/#moj-technical-guidance)
 
+It started out as a prototype, developed at the first
+[OneTeamGov Bureaucracy Hack](https://www.oneteamgov.uk/events/bureaucracyhack)
+in July 2019.
 
 ## Principles
 
