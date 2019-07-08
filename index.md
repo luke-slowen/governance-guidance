@@ -48,7 +48,7 @@ in July 2019.
 
 ## Adding new guidance
 
-Create a new Markdown file in the [Governance guidance repo](https://github.com/luke.slowen/governance-guidance) that follows this pattern, add a link to it
+Create a new Markdown file in the [Governance guidance repo](https://github.com/luke-slowen/governance-guidance) that follows this pattern, add a link to it
 from this page, and make a pull request:
 
 ```markdown
